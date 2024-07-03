@@ -1,5 +1,4 @@
 ### Hi there 👋 I'm Daywison Leal
-- 🔭 I'm currently working at Adireto as a Software Engineer
 - 🌱 I'm currently learning about DDD and software architecture
 
  <div>
